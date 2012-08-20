@@ -10,7 +10,7 @@
   <groupId>org.hudsonci.plugins</groupId>
   <artifactId>cobertura</artifactId>
   <packaging>hpi</packaging>
-  <version>1.6-h-1</version>
+  <version>1.6-h-1-SNAPSHOT</version>
   <name>Cobertura Plugin</name>
   <url>http://wiki.hudsonci.org/display/HUDSON/Cobertura+Plugin</url>
 
